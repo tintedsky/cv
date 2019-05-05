@@ -1,0 +1,21 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h3 {
+  margin-bottom: 0em;
+}
+
+hr.s1 {
+  border-style: none;
+  height: 2px;
+  background-color: white;
+}
+
+hr.s2 {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: lightgrey;
+  width: 5%;
+}
